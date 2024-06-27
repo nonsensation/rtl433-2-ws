@@ -50,7 +50,7 @@ Available settings:
 
 I have tested it with a cheap 10€ USB Stick
 
-![DVBT Dongle as SDR-Stick](stick.Webp)
+![DVBT Dongle as SDR-Stick](stick.webp)
 
 You might have to install the Stick with this utility tool: https://zadig.akeo.ie/
 
