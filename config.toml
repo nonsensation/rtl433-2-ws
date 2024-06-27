@@ -1,0 +1,12 @@
+
+# host
+#   'localhost' -> only this machine can connect
+#   '0.0.0.0' -> all machines from network can connect
+host = '0.0.0.0'
+# port
+#   can be any valid port
+#   usually 80 for HTTP/ws or 443 for HTTPS/wss
+port = 443
+# password
+#   if left blank or empty, all clients can connect
+password = ''
