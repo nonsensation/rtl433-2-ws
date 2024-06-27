@@ -6,15 +6,14 @@ This python script uses the [rtl_433](https://github.com/merbanan/rtl_433) tool 
 ## Prerequisities
 
 - You must use Windows
-- You need an SDR-Receiver (see [](#SDR-Receiver))
+- You need an SDR-Receiver (see [SDR-Receiver](#sdr-receiver))
 - You must have Python 3 installed (tested with v3.11) -> [Download it here](https://www.python.org/downloads/)
 
 ## Installation
 
-1. Copy or Clone this repo -> [Download as Zip](https://github.com/nonsensation/rtl4-2-ws33/archive/refs/heads/main.zip)
+1. Copy or Clone this repo -> [Download as Zip](https://github.com/nonsensation/rtl433-2-ws/archive/refs/heads/main.zip)
 
-2. Download and unzip the [rtl_433](https://github.com/merbanan/rtl_433/releases) tool into this folder.
-
+2. Download and unzip the [rtl_433](https://github.com/merbanan/rtl_433/releases) tool into this folder.  
 Here is a download link with the version I tested it with (x64):
 [DOWNLOAD](https://github.com/merbanan/rtl_433/releases/download/23.11/rtl_433-win-x64-23.11.zip)
 
@@ -30,8 +29,8 @@ Here is a download link with the version I tested it with (x64):
         └──📄 ...
 ```
 
-4. Start the WebSocket-Server via Python
-    - Open a Terminal (Right-Click in the File Explorer) and run `py rtl433-2-ws.py`
+4. Start the WebSocket-Server via Python  
+   Open a Terminal (Right-Click in the File Explorer) and run `py rtl433-2-ws.py`
 
 5. You can display the messages in the Browser, simply double-click `rtl433-2-ws.html`
 
