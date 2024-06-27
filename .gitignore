@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!config.toml
+!README.md
+!rtl433-2-ws.html
+!rtl433-2-ws.html
+!stick.webp
